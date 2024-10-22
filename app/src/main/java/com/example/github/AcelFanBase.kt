@@ -15,4 +15,4 @@ fun baru(){
     Text(
         "MANTANcantengannnnn"
     )
-}
+}+

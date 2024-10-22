@@ -11,4 +11,8 @@ fun baru(){
 =======
     Text("Hahaha HIHIHI di edit acel")
 >>>>>>> 57fef9e57f2ee899b4fb06dc4409e6b044214aa4
+
+    Text(
+        "MANTANcantengannnnn"
+    )
 }

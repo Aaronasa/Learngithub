@@ -6,9 +6,10 @@ import androidx.compose.runtime.Composable
 @Composable
 fun baru(){
     Text("Halo Update baru dari branch rafi")
+
     Text("Halo Update baru dari branch rafi")
+
     Text("Hahaha HIHIHI di edit acel")
-    Text(
-        "MANTANcantengannnnn"
-    )
+    Text("Hahaha HIHIHI di edit acel")
+
 }

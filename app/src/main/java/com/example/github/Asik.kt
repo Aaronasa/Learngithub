@@ -23,6 +23,7 @@ class Asik : ComponentActivity() {
                     Greeting2(
                         name = "Android",
                         modifier = Modifier.padding(innerPadding).fillMaxSize()
+//                        woiwoiwoiwoiwowiwoiwoiwowio
                     )
                     
                 }

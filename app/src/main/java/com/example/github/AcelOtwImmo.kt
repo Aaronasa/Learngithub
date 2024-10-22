@@ -9,13 +9,13 @@ fun Immo() {
         text = "Acel Otw IMmo"
     )
     Text(
-        text = "Acel Otw IMmo"
+        text = "acel gagal immo"
     )
     Text(
-        text = "Acel Otw IMmo"
+        text = "o"
     )
     Text(
-        text = "Acel Otw IMmo"
+        text = "Ac"
     )
     Text(
         text = "Acel Otw IMmo"

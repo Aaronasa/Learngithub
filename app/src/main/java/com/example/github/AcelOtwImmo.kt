@@ -8,4 +8,16 @@ fun Immo(){
     Text(
         text = "Acel Otw IMmo"
     )
+    Text(
+        text = "Acel Otw IMmo"
+    )
+    Text(
+        text = "Acel Otw IMmo"
+    )
+    Text(
+        text = "Acel Otw IMmo"
+    )
+    Text(
+        text = "Acel Otw IMmo"
+    )
 }
